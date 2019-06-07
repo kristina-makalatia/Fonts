@@ -1,0 +1,24 @@
+@import url("https://cdn.web-fonts.ge/fonts/alk-rounded-nusx-med/css/alk-rounded-nusx-med.min.css");
+.title{
+	font-size: 30px;
+	text-align: center;
+	font-family: "ALK Rounded Nusx Med", sans-serif;
+
+}
+.title2{
+	font-family: 'ALK Life', sans-serif;
+	font-size: 30px;
+	text-align: center;
+	font-weight: 600;
+	font-style:italic;
+}
+.title3{
+	font-family: 'Raleway', sans-serif;
+	font-size: 30px;
+	text-align: center;
+}
+.title4{
+	font-family: 'Open Sans Condensed';
+	font-size: 30px;
+	text-align: center;
+}
